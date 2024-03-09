@@ -1,5 +1,5 @@
 ![logo](https://github.com/HasnainSolangi/HasnainSolangi/blob/main/Hasnain's%20GH%20Banner.png)
-<h1 align="center">Assalamu alaykum 🙏, I'm Hasnain Ahmed</h1>
+<h1 align="center">Assalamu alaykum 🙏</h1>
 <h3 align="center">A budding programmer eager to explore the exciting world of coding. Join me on my journey as I dive into the fascinating realm of programming, learning, and building along the way. Let's embark on this adventure together!</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
