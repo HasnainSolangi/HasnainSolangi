@@ -1,20 +1,21 @@
 ![logo](https://github.com/HasnainSolangi/HasnainSolangi/blob/main/Hasnain's%20GH%20Banner.png)
 <h1 align="center">Assalamu Alaikum 🙏</h1>
+<h3 align="center">
+    Web, Agentic AI & Robotics Engineer | Spec-driven & AI-Native Development | Next.js, OpenAI Agents SDK, Tailwind CSS & CMS-Sanity | Economics Master’s Graduate | OAT Certified IBA-IET | <img src="https://img.shields.io/badge/Verified-Badge-blue?style=flat&logo=github&logoColor=white" alt="Verification Badge"/>
+</h3>
 <h3 align="center">A budding programmer eager to explore the exciting world of coding. Join me on my journey as I dive into the fascinating realm of programming, learning, and building along the way. Let's embark on this adventure together!</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnainsolangi&label=Profile%20views&color=0e75b6&style=flat" alt="hasnainsolangi" /> </p>
 
-- 🔭 I’m currently delving into **Q3 - Python**
+- 🔭 I’m currently delving into **Spec-driven & AI-Native Development**.
 
-- 💬 If you have any questions, **Feel free to ask me about setting up your development environment, including installing Node.js, Git, TypeScript, Nextjs and Visual Studio Code.**
+- 🌱 I’m currently learning **Advanced concepts in Spec-driven Architecture and AI-Native Systems.**
 
-- 🌱 I’m currently learning **Python Basics to Advance**
+- 🤝 I’m looking for help with **Assignments and mini-projects related to my current endeavors in Spec-driven, AI-Native, and Web Development.**
 
-- 🤝 I’m looking for help with **Assignments and mini-projects related to my current endeavors.**
-
-- 💬 If you have any questions, **Feel free to ask me about setting up your development environment, including installing Node.js, Git, TypeScript, and Visual Studio Code.**
+- 💬 If you have any questions, **Feel free to ask me.**
 
 - 📫 How to reach me **hasnainzahoor1996@gmail.com**
 
@@ -32,17 +33,43 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+#### 🧠 AI & Agentic Development
 <p align="left">
-</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a> <a href="https://code.visualstudio.com//visualstudio/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original-wordmark.svg" alt="visualstudio" width="40" height="40"/>
-</a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-</a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-</a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnainsolangi&show_icons=true&locale=en&layout=compact" alt="hasnainsolangi" /></p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+</p>
+
+#### 🌐 Web & Frontend Frameworks
+<p align="left">
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+</p>
+
+#### ⚙️ Backend & CMS
+<p align="left">
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.sanity.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sanity/sanity-original.svg" alt="sanity" width="40" height="40"/> </a>
+</p>
+
+#### ☁️ Cloud & Infrastructure
+<p align="left">
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/> </a>
+</p>
+
+#### 💻 Tools & Design
+<p align="left">
+<a href="https://code.visualstudio.com//visualstudio/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original-wordmark.svg" alt="visualstudio" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnainsolangi&show_icons=true&locale=en&layout=compact" alt="hasnainsolangi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnainsolangi&show_icons=true&locale=en" alt="hasnainsolangi" /></p>
 
