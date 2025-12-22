@@ -1,3 +1,5 @@
+<a href="https://gitroll.io/profile/uHAUk2N2uN9TWPyruLovDDP3yGfX2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uHAUk2N2uN9TWPyruLovDDP3yGfX2?theme=WatchdogGradient" alt="GitRoll Profile Badge"/></a>
+
 ![logo](https://github.com/HasnainSolangi/HasnainSolangi/blob/main/Hasnain's%20GH%20Banner.png)
 <h1 align="center">Assalamu Alaikum 🙏</h1>
 <h3 align="center">
